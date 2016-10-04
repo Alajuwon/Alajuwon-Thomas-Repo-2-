@@ -1,0 +1,47 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+img{
+	width: 300px;
+	border: solid lightgrey;
+}
+
+
+.authors img{
+	width: 20px;
+}
+
+
+.octocat{
+	float: left;
+	margin: 7px;
+}
+
+
+li {
+	list-style: none;
+}
+ 
+.image-footer{
+	text-decoration: right;
+}
+
+.image-caption{
+	float: right;
+
+}
+
+span.image-number: before {
+	content:"#";
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-style: bold;
+
+}
