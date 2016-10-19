@@ -8,6 +8,7 @@
 img{
 	width: 300px;
 	border: solid lightgrey;
+	
 }
 
 
@@ -27,21 +28,41 @@ li {
 }
  
 .image-footer{
-	text-decoration: right;
+	border-bottom: solid;
+	color: lightgray;
+	margin-top: 
+
+
 }
 
 .image-caption{
 	float: right;
+	margin: 3px;
 
 }
 
-span.image-number: before {
-	content:"#";
+span{
+	font-size: 18px;
+}
+
+.image-number: before {
+	content: "#";
+}
+
+.image-number{
+	color: gray;
 }
 
 a {
 	text-decoration: none;
 	color: black;
 	font-style: bold;
+
+}
+
+
+.authors{
+	float: right;
+
 
 }
